@@ -23,6 +23,5 @@
 <li style="font-weight: 400;" aria-level="1"><strong>Exp&eacute;rience locale</strong><span style="font-weight: 400;"> : D&eacute;couverte de l&rsquo;Inde authentique, loin des clich&eacute;s touristiques.</span></li>
 </ul>
 <h3 style="text-align: justify;"><span style="font-weight: 400;">Contactez-nous d&egrave;s maintenant pour organiser votre voyage sur mesure !</span></h3>
-<p style="text-align: justify;"><strong>Email</strong><span style="font-weight: 400;"> :</span><a href="https://mailto:info@rajasthanaveckhusipal.com"> <span style="font-weight: 400;">info@rajasthanaveckhusipal.com</span><span style="font-weight: 400;"><br /></span></a><strong>T&eacute;l&eacute;phone</strong><span style="font-weight: 400;"> : +91 7014980032</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">L&rsquo;Inde vous attend, au-del&agrave; des sentiers battus. Avec Rajasthan avec Khusipal, Agence de voyage Locale en Inde, partez &agrave; la rencontre des tr&eacute;sors cach&eacute;s du sous-continent.</span></p>
 <p style="text-align: justify;"><span style="font-weight: 400;">Pr&ecirc;t &agrave; explorer l&rsquo;Inde autrement ? Contactez votre Agence de voyages en Inde pour touristes fran&ccedil;ais d&egrave;s aujourd&rsquo;hui !</span></p>
